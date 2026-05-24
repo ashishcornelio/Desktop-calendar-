@@ -15,12 +15,8 @@ The project allows you to:
 
 # Live HTML Converter Link
 
-> Replace this placeholder with your deployed HTML page link:
+https://ashishcornelio.github.io/Desktop-calendar/
 
-```txt
-https://ashishcornelio.github.io/Desktop-calendar-/
-
-```
 
 ---
 
