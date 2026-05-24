@@ -18,7 +18,8 @@ The project allows you to:
 > Replace this placeholder with your deployed HTML page link:
 
 ```txt
-https://your-live-link-here.com
+https://ashishcornelio.github.io/Desktop-calendar-/
+
 ```
 
 ---
