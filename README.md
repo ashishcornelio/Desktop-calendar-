@@ -25,7 +25,7 @@ https://ashishcornelio.github.io/Desktop-calendar/
 | File                | Description |
 | ---- | ---- |
 | `image_clock.ino`   | Main ESP32 slideshow + RTC firmware |
-| `image_upload.html` | Desktop/web image converter for preparing images for the ESP32 |
+| `index.html` | Desktop/web image converter for preparing images for the ESP32 |
 
 ---
 
